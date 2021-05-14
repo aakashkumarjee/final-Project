@@ -2,7 +2,9 @@
 
 ### How to Run
 python2 run.py
-
+or 
+for GUI
+python2 gui.py
 It will ask for query, give your query
 It will ask for sql dump path, give your sql dump file path
 
